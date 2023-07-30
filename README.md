@@ -1,5 +1,5 @@
 # UralMetallurgService
-Сайт для компании, предоставляющей услуги обработки металла и изготовления конструкций
+Website for a company providing metal processing services and construction manufacturing.
 
 ![image](https://user-images.githubusercontent.com/87609018/171234282-fb242e6f-b7a2-4500-be96-2262610debe6.png)
 
